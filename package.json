@@ -9,7 +9,7 @@
     "dependencies": {
         "@babel/core": "^7.1.2",
         "animate.css": "^3.7.0",
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "mand-mobile": "^1.5.2",
         "qs": "^6.5.2",
         "reset-css": "^4.0.1",

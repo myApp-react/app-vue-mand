@@ -40,7 +40,7 @@
         "vue-template-compiler": "^2.5.17",
         "vue-wechat-title": "^2.0.5",
         "webpack": "^4.26.1",
-        "webpack-cli": "^3.1.2",
+        "webpack-cli": "^3.3.12",
         "weixin-js-sdk": "^1.4.0-test"
     },
     "postcss": {
